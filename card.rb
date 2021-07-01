@@ -1,3 +1,4 @@
+#Desafío Cuenta Bancaria - Ejercicio 1
 class Card
     attr_accessor :number, :kind
 

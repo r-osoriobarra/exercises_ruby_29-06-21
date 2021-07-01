@@ -1,3 +1,4 @@
+#Desafío Cuenta Bancaria - Ejercicio 2
 class BankAccount
 
     attr_accessor :user_name
