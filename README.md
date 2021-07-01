@@ -1,4 +1,4 @@
-# Prueba - Cards and BankAccount 29-06-21
+# Desafío - Cards and BankAccount 29-06-21
 
 Primer desadío del módulo "Desarrollo de aplicaciones web con Rails" @DesafíoLatam. El objetivo es aplicar los conceptos de programación orientada a objetos en Ruby.
 
