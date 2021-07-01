@@ -9,8 +9,13 @@ class Card
             raise "number o kind no es un argumento válido" 
         end
     end
+
+    def to_s
+        "Número #{self.number}, pinta #{self.kind}"
+    end
 end
 
 card_deck = Array.new
-5.times {|i| Card.new(2,'E')
+5.times {card_deck << Card.new(rand(1..13),["C","D","E","T"].sample)}
+puts card_deck
 
